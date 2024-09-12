@@ -199,6 +199,9 @@ footer{
 footer .row nav ul li a{
     color: black;
 }
+footer .row nav ul li span{
+    color: white;
+}
 .align-center{
     align-items: center;
 }
